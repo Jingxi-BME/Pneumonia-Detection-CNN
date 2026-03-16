@@ -32,13 +32,6 @@ The CNN architecture includes:
 - NumPy
 - Matplotlib
 
-## Project Structure
-Pneumonia-Detection-CNN
-│
-├── pneumonia_detection.ipynb
-└── README.md
-
-
 ## Author
 Biomedical Engineering Graduate Student  
 Interested in medical AI and medical device applications
